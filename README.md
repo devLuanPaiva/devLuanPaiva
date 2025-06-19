@@ -20,7 +20,7 @@
   <img align="center" alt="Sass" height="30" width="40" src="https://www.svgrepo.com/show/349502/sass.svg">
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://www.svgrepo.com/show/373700/jest.svg">
-  <img align="center" alt="NextAuth.js" height="30" width="40" src="https://next-auth.js.org/img/logo/logo-sm.png">
+  <img align="center" alt="NextAuth.js" height="30" width="30" src="https://next-auth.js.org/img/logo/logo-sm.png">
   <img align="center" alt="OAuth" height="30" width="40" src="https://www.svgrepo.com/show/354135/oauth.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
@@ -28,7 +28,7 @@
   
   ##
  
-<div  style="display: inline_block">   
+<div  style="display: inline_block" align="center">   
   <a href="https://instagram.com/luan__alvees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:devluanpaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devLuanpaiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
