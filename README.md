@@ -2,8 +2,8 @@
 <div align="center">
  <div>
  <a href="https://github.com/devLuanPaiva">
-    <img height="180em" src="https://readme-stats-three-blush.vercel.app/api?username=devLuanPaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://readme-stats-three-blush.vercel.app/api/top-langs/?username=devLuanPaiva&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://readme-stats-three-blush.vercel.app/api?username=devLuanPaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1"/>
+    <img height="180em" src="https://readme-stats-three-blush.vercel.app/api/top-langs/?username=devLuanPaiva&layout=compact&langs_count=16&theme=dark&cache_seconds=1"/>
   </a>
 </div>
 <div style="display: inline_block" align="center"><br>
