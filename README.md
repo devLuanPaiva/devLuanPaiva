@@ -1,9 +1,10 @@
 ## Olá! Eu sou Luan Alves de Paiva.
 <div align="center">
  <div>
-  <a href="https://github.com/devLuanPaiva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devLuanPaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLuanPaiva&layout=compact&langs_count=16&theme=dark"/>
+ <a href="https://github.com/devLuanPaiva">
+    <img height="180em" src="https://readme-stats-three-blush.vercel.app/api?username=devLuanPaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://readme-stats-three-blush.vercel.app/api/top-langs/?username=devLuanPaiva&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Next.js" height="30" width="40" src="https://www.svgrepo.com/show/369457/nextjs.svg">
