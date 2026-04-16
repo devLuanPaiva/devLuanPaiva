@@ -6,7 +6,7 @@
     <img height="180em" src="https://readme-stats-three-blush.vercel.app/api/top-langs/?username=devLuanPaiva&layout=compact&langs_count=16&theme=dark&cache_seconds=1"/>
   </a>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: flex" align="center"><br>
   <img align="center" alt="Next.js" height="30" width="40" src="https://www.svgrepo.com/show/369457/nextjs.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://www.svgrepo.com/show/452156/angular.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
